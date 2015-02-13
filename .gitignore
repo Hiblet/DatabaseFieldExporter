@@ -27,11 +27,13 @@ website.*
 *.xls
 *.xlsx
 
-###############################################
-# NZ01 Class Library Files (Post 13-OCT-2014)
+################
+# System files
 
-
-obj/Debug
+bin
+obj
+*.sln
+*.suo
 *.csproj
 *.force
 *.cache
