@@ -1,0 +1,41 @@
+################
+# Ignore Files #
+################
+
+###############
+# Config file
+
+*.config
+
+#############
+# Log files 
+
+*.log
+website.*
+
+
+##################
+# Database files
+
+*.MDF
+*.ldf
+
+
+#######################
+# Documentation files
+
+*.xls
+*.xlsx
+
+###############################################
+# NZ01 Class Library Files (Post 13-OCT-2014)
+
+
+obj/Debug
+*.csproj
+*.force
+*.cache
+
+#####################
+# Garbage directory
+
